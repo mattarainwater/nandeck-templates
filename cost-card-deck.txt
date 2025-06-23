@@ -1,0 +1,7 @@
+LINK = cost-data.csv
+FONT = Arial, 24, , #000000
+TEXT = 1-{(name)}, [name], 5%, 0, 75%, 15%, left
+TEXT = 1-{(name)}, [cost], 80%, 0, 15%, 15%, right
+IMAGE = 1-{(name)}, [art], 5%, 20%, 90%, 25%, 0
+TEXT = 1-{(name)}, [text], 5%, 45%, 90%, 45%, center, wwcenter
+TEXT = 1-{(name)}, [points], 85%, 85%, 10%, 10%, center, center

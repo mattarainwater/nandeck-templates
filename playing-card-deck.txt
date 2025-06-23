@@ -1,0 +1,5 @@
+LINK = playing-data.csv
+TEXTFONT = 1-{(value)}, [value], 10%, 10%, 10%, 10%, center, center, 0, 100, Arial, 24, , [color]
+TEXTFONT = 1-{(value)}, [value], 80%, 80%, -10%, -10%, center, center, 0, 100, Arial, 24, , [color]
+
+IMAGE = 1-{(value)}, [symbol], 40%, 40%, 20%, 20%, 0
