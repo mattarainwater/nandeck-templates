@@ -17,3 +17,9 @@ cost-data.csv - the data for the deck, contains the names, costs, etc. for each 
 playing-card-deck.txt - the deck itself, contains the directives required to render the cards.
 
 playing-data.csv - the data for the deck, contains the values, color, symbols for each card
+
+# Assets
+Contains the images referenced in the .csv files for display on the cards
+
+# Rendered
+Contains the fully rendered cards built with nanDECK from the decks/data/assets.
