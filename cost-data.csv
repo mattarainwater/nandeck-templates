@@ -1,3 +1,3 @@
 name,text,cost,points,art
-Goblin,Deal 1 Damage to a Player,1,,goblin.jpg
-Town,Heal a player 2 points,2,1,town.jpg
+Town,Heal a player 2 points,2,1,assets/town.jpg
+Goblin,Deal 1 Damage to a Player,1,,assets/goblin.jpg
